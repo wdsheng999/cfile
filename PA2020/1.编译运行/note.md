@@ -1,11 +1,4 @@
-
-## - 三个实训
-大家需要掌握如下内容: **递归, 指针, 链表**, 并且能够独立写出正确的程序(而不是在百度上搜一个所谓的示例代码).
-[linxu C编程一站式学习](http://akaedu.github.io/book/)
-[2020PA](https://www.bilibili.com/video/BV1qa4y1j7xk?p=1&vd_source=2f7ac3a0b8a261c464af7fbaac4c4571)
-[The C programming language (2nd Edition)](http://math.ecnu.edu.cn/~jypan/Teaching/ParaComp/books/The%20C%20Programming%20Language%202nd.pdf): 真正的C语言之父是这本书的作者Dennis M. Ritchie, 而不是谭浩强
-[SEI CERT C Coding Standard](https://wiki.sei.cmu.edu/confluence/display/c/SEI+CERT+C+Coding+Standard)
-##### * 编译 链接
+## * 编译 链接
     * _.c_ --> _.l_ -->_.s_-->_.o_-->_.out_  四个箭头分别代表 预编译 编译 汇编 链接
   实验
   在 gcc编译后的a.out中 vi打开
