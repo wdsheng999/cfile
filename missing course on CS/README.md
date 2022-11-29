@@ -14,3 +14,7 @@ Unix哲学的最后一点最能体现Linux和Windows的区别: 编程创造. 如
 
 所以, 你应该使用Linux的原因非常简单: 作为一个码农, Windows一直在阻碍你思想, 能力和效率的提升.
 
+
+---
+https://member.selfhostedserver.com/kungfu/
+命令行功夫
