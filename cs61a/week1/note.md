@@ -27,3 +27,6 @@ local frame-->global frame
 
 finish textbook 1.1/1.2
 
+- finish installing
+- first example
+
