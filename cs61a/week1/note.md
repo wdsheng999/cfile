@@ -138,3 +138,8 @@ def if_(true1,ret1,false1):
 ## book chapter 1.3/1.4/1.5
 
 ### 1.3 defining new functions
+hwo to define new functions 
+### 1.4 environments
+what if a former parameter has the same name as the built-in function?
+a signal global frame 
+with the progress of program, new bindings come in
